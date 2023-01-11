@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.input_serach{
+  width:18%;
+  padding:.4rem;
+  border-radius: .3rem;
+}
+
+.btn{
+      width:5%;
+      padding: .3rem;
+      background-color:lightblue;
+      border-radius: .3rem;
+      cursor: pointer;
+}
